@@ -1,0 +1,12 @@
+Storagemanage\StoragemanageCancelled.class
+Storagemanage\config\kafka\KafkaProcessor.class
+Storagemanage\StoragemanagePolicyHandler.class
+Storagemanage\StoragemanageApplication.class
+Storagemanage\StoragecallCancelled.class
+Storagemanage\StoragemanageAssigned.class
+Storagemanage\StoragemanageController.class
+Storagemanage\AbstractEvent$1.class
+Storagemanage\StoragemanageRepository.class
+Storagemanage\StorageassignCompleted.class
+Storagemanage\Storagemanage.class
+Storagemanage\AbstractEvent.class
